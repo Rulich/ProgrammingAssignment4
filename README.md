@@ -1,9 +1,4 @@
----
-title: "Readme"
-output:
-  html_document:
-    df_print: paged
----
+# Readme
 
 ### Description
 

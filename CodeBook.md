@@ -1,11 +1,4 @@
----
-title: "Code Book"
-author: "Ruslan Haziyev"
-output:
-  html_document:
-    df_print: paged
----
-
+# Code Book
 
 ### Project Description
 
